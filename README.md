@@ -1,5 +1,11 @@
 # C - Binary Trees
 
+![_2ca3fcf3-272e-4066-8f59-0cba0e89dd3b](https://github.com/savvyh/holbertonschool_binary_trees/assets/139894873/66c399eb-d0dc-4b8c-8c3c-a9c47fdcb541)
+
+## General 🎱
+
+A binary tree is a hierarchical structure with nodes having at most two children. A Binary Search Tree (BST) maintains order among elements. Compared to linked lists, binary trees offer better time complexity. Depth is the length from root to leaf, height is the maximum depth, and size is the total nodes. Traversal methods are inorder, preorder, and postorder. Complete trees have filled levels, full trees have every node with zero or two children, perfect trees have all internal nodes with two children and leaves at the same level, and balanced trees ensure minimal height differences between subtrees.
+
 ## TASKS
 
 0. New node
@@ -181,3 +187,7 @@ struct binary_tree_s
 
 typedef struct binary_tree_s binary_tree_t;
 ```
+
+### Authors 🧞‍♂️🧞‍♀️
+Jérémy Carpentier
+Sarah Boutier
